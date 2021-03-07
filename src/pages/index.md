@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/3.jpg
     image_alt: App preview
-    title: Capture your favourite moments
+    title: Capture that special moment forever
     content: >
       Was it your first kiss, the birth of a child or that moment you realised
       your world had changed. Give a gift of the stars to always remember that
