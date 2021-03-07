@@ -7,11 +7,9 @@ sections:
     image_alt: App preview
     title: Capture your favourite moments
     content: >
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
-
-
-      THIS IS A TEST CC 0703.
+      Was it your first kiss, the birth of a child or that moment you realised
+      your world had changed. Give a gift of the stars to always remember that
+      special night.
     actions:
       - label: Learn More
         url: /features
