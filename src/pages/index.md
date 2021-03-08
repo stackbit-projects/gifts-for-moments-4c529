@@ -12,7 +12,8 @@ sections:
       special night.
     actions:
       - label: Design yours now
-        url: Www.Rightmove.co.uk
+        url: >-
+          https://www.rightmove.co.uk/property-for-sale/find.html?locationIdentifier=REGION%5E1162&radius=1.0&propertyTypes=&mustHave=&dontShow=&furnishTypes=&keywords=
         style: primary
   - section_id: features
     type: section_features
