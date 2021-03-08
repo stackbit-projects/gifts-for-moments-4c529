@@ -11,7 +11,7 @@ sections:
       your world had changed. Give a gift of the stars to always remember that
       special night.
     actions:
-      - label: Learn More
+      - label: Design yours now
         url: /features
         style: primary
   - section_id: features
