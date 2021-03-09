@@ -54,7 +54,7 @@ models:
           - orange
           - purple
           - black
-        default: blue
+        default: black
         required: true
       - type: enum
         name: base_font
