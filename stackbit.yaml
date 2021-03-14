@@ -48,7 +48,7 @@ models:
         label: Color Palette
         description: The color palette of the site
         options:
-                  - black
+          - black
           - blue
           - cyan
           - green
